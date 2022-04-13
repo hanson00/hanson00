@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋HI
+大家好，我是一个热爱计算机的同学，励志成为一名资深程序员!
+虽然开始的太晚，但我相信只要努力就一定会有收获，希望和大家一起努力
+### Love and share
 
 <!--
 **hanson00/hanson00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
