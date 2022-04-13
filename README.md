@@ -16,14 +16,10 @@
 
 
 ### 👋HI
-大家好，我是一个热爱计算机的同学，励志成为一名资深程序员!
-喜欢学习各种有趣好玩的知识
+大家好，我是一个热爱计算机的同学，励志成为一名资深程序员!</br>
+喜欢学习各种有趣好玩的知识</br>
 虽然开始的太晚，但我相信只要努力就一定会有收获，希望和大家一起努力
 ### 💪Love and share
-![Metrics](https://metrics.lecoq.io/hanson00?template=classic&config.timezone=Asia%2FShanghai)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanson00)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanson00)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 🧐本人使用过的语言
@@ -55,19 +51,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 
-
-
-
-
-
-
-
-<!-- GitHub数据统计 -->
-<div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=hanson00&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanson00&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
-<br>
 
 
 
