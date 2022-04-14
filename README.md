@@ -55,7 +55,16 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 
 
+-------
 
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+
+
+
+<!--END_SECTION:waka-->
+
+-------
 
 
 
