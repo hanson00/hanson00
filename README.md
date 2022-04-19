@@ -54,7 +54,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 April 2022 - To: 17 April 2022
+From: 11 April 2022 - To: 18 April 2022
 
 TOML       1 hr 2 mins     ████████████████████▒░░░░   81.89 %
 Markdown   12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.06 %
