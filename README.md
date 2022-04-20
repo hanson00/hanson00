@@ -54,11 +54,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 April 2022 - To: 18 April 2022
+From: 12 April 2022 - To: 19 April 2022
 
-TOML       1 hr 2 mins     ████████████████████▒░░░░   81.89 %
-Markdown   12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.06 %
-Python     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+TOML       1 hr 2 mins     ██████████████░░░░░░░░░░░   55.97 %
+Python     36 mins         ████████░░░░░░░░░░░░░░░░░   32.37 %
+Markdown   12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
 ```
 
 <!--END_SECTION:waka-->
