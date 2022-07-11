@@ -55,14 +55,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 July 2022 - To: 09 July 2022
+From: 03 July 2022 - To: 10 July 2022
 
-Python           7 hrs 41 mins   ████████████████▒░░░░░░░░   65.62 %
-Markdown         1 hr 33 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
-TOML             1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
-CSS              52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
-HTML             35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python           7 hrs 38 mins   ███████████████████████▓░   94.92 %
+Markdown         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
