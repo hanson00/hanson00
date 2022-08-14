@@ -52,13 +52,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 August 2022 - To: 09 August 2022
+From: 06 August 2022 - To: 13 August 2022
 
-Python       7 hrs 2 mins    ████████████████████▓░░░░   83.00 %
-JSON         34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
-JavaScript   30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
-Markdown     19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-PythonStub   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Python           14 hrs 3 mins   ███████████████████████░░   91.74 %
+JSON             34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+Markdown         31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+HTML             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+PythonStub       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
