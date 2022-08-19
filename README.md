@@ -52,13 +52,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 August 2022 - To: 16 August 2022
+From: 11 August 2022 - To: 18 August 2022
 
-Python           10 hrs 48 mins  ██████████████████████▒░░   89.47 %
-YAML             31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-Batchfile        18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-Markdown         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Other            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Python      15 hrs 36 mins  ██████████████████████▒░░   88.85 %
+Markdown    1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
+YAML        31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Batchfile   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Other       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
