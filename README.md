@@ -52,10 +52,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 September 2022 - To: 28 September 2022
+From: 22 September 2022 - To: 29 September 2022
 
-Python   31 mins         ███████████████████████▒░   93.31 %
-C        2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+Python           1 hr 43 mins    ████████████████████████▒   97.78 %
+C                2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
