@@ -52,11 +52,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 September 2022 - To: 07 October 2022
+From: 01 October 2022 - To: 08 October 2022
 
-Python     2 hrs 52 mins   ███████████████████████▒░   93.22 %
-Markdown   11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Python   2 hrs 26 mins   █████████████████████████   99.58 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
