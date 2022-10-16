@@ -52,10 +52,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 October 2022 - To: 14 October 2022
+From: 08 October 2022 - To: 15 October 2022
 
-Python     1 hr 4 mins     ████████████████████▓░░░░   82.79 %
-Markdown   13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.21 %
+Python     2 hrs 1 min     █████████████████████▓░░░   86.92 %
+Markdown   13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
+JSON       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
 ```
 
 <!--END_SECTION:waka-->
