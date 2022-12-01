@@ -29,7 +29,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 23 November 2022 - To: 30 November 2022
+
+JavaScript       13 hrs 1 min    ████████████████▓░░░░░░░░   66.71 %
+Python           6 hrs 24 mins   ████████▒░░░░░░░░░░░░░░░░   32.86 %
+Other            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
