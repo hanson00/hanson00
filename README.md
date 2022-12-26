@@ -29,10 +29,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 December 2022 - To: 24 December 2022
-
-HTML     47 mins         ████████████████████████▓   98.83 %
-Python   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
