@@ -29,10 +29,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 December 2022 - To: 31 December 2022
+From: 26 December 2022 - To: 02 January 2023
 
-Python    1 hr 34 mins    ████████████████████████▒   97.57 %
-CSV/TSV   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Python     2 hrs 8 mins    ███████████████████████▓░   94.50 %
+Markdown   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+CSV/TSV    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
