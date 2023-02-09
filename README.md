@@ -29,10 +29,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 January 2023 - To: 07 February 2023
+From: 01 February 2023 - To: 08 February 2023
 
-Python       8 hrs 17 mins   ███████████████████████░░   91.79 %
-JavaScript   44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
+Python       7 hrs 38 mins   ██████████████████████▒░░   89.03 %
+JavaScript   53 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
+Markdown     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
