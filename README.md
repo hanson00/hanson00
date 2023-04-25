@@ -29,12 +29,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 April 2023 - To: 23 April 2023
+From: 17 April 2023 - To: 24 April 2023
 
-Python           6 hrs 3 mins    ████████████████████████▓   98.89 %
-Markdown         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-Text             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python   5 hrs 26 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
