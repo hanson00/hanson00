@@ -29,9 +29,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 April 2023 - To: 27 April 2023
+From: 21 April 2023 - To: 28 April 2023
 
-Python   1 hr 46 mins    █████████████████████████   100.00 %
+Python    5 hrs 5 mins    ████████████████████████▒   97.03 %
+CSV/TSV   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Text      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+HTML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
