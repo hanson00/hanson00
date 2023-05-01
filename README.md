@@ -29,7 +29,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 April 2023 - To: 29 April 2023
+From: 23 April 2023 - To: 30 April 2023
 
 Python    5 hrs 19 mins   ███████████████████████░░   92.63 %
 HTML      14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
