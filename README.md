@@ -29,11 +29,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 May 2023 - To: 16 May 2023
+From: 10 May 2023 - To: 17 May 2023
 
-Python     3 hrs 40 mins   ███████████████████████▒░   93.75 %
-textmate   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-JSON       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Python     3 hrs 19 mins   ███████████████████████▒░   93.15 %
+textmate   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+JSON       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
 <!--END_SECTION:waka-->
