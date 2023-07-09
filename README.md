@@ -29,13 +29,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 June 2023 - To: 07 July 2023
+From: 01 July 2023 - To: 08 July 2023
 
-JavaScript   3 hrs 5 mins    ██████████████▒░░░░░░░░░░   56.88 %
-Python       1 hr 33 mins    ███████░░░░░░░░░░░░░░░░░░   28.53 %
-Markdown     44 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.64 %
-Text         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+JavaScript   1 hr 47 mins    ███████████░░░░░░░░░░░░░░   43.95 %
+Python       1 hr 33 mins    █████████▓░░░░░░░░░░░░░░░   38.06 %
+Markdown     44 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
 HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
