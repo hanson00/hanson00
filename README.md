@@ -29,10 +29,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2023 - To: 11 September 2023
+From: 05 September 2023 - To: 12 September 2023
 
-Python       28 mins         █████████████▓░░░░░░░░░░░   54.64 %
-JavaScript   23 mins         ███████████▒░░░░░░░░░░░░░   45.36 %
+Python       42 mins         ████████████████░░░░░░░░░   64.61 %
+JavaScript   23 mins         █████████░░░░░░░░░░░░░░░░   35.39 %
 ```
 
 <!--END_SECTION:waka-->
