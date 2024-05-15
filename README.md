@@ -29,7 +29,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 May 2024 - To: 13 May 2024
+From: 07 May 2024 - To: 14 May 2024
 
 SQL      11 mins         ███████████████░░░░░░░░░░   59.92 %
 Python   7 mins          ██████████░░░░░░░░░░░░░░░   40.08 %
